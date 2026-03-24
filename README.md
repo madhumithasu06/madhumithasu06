@@ -59,11 +59,11 @@
 
 ```js
 // ═══════════════════════════════════════
-//  🧠 NEURAL PROFILE: srinivas.exe
+//  🧠 NEURAL PROFILE: madhumitha.exe
 // ═══════════════════════════════════════
 
 const srinivas = {
-    identity: "Srinivas P",
+    identity: "madhumitha",
     base: "📍 Mysore, India",
     
     education: {
